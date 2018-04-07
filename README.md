@@ -1,4 +1,6 @@
-[![GitHub release](https://img.shields.io/github/release/oznu/docker-homebridge.svg?style=for-the-badge)](https://github.com/oznu/docker-homebridge/releases) [![Docker Build Status](https://img.shields.io/docker/build/oznu/homebridge.svg?label=x64%20build&style=for-the-badge)](https://hub.docker.com/r/oznu/homebridge/) [![Travis](https://img.shields.io/travis/oznu/docker-homebridge.svg?label=arm%20build&style=for-the-badge)](https://travis-ci.org/oznu/docker-homebridge) [![Docker Pulls](https://img.shields.io/docker/pulls/oznu/homebridge.svg?style=for-the-badge)](https://hub.docker.com/r/oznu/homebridge/)
+# No longer needed
+
+This strategy (using a customized homebridge build) is no longer necessary. Please see NortherMan54's updated [homebridge-alexa](https://github.com/NorthernMan54/homebridge-alexa).
 
 # Docker Homebridge
 
